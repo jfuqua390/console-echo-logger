@@ -2,7 +2,7 @@
   "name": "console-echo-logger",
   "displayName": "Console Echo Logger",
   "description": "This extension helps you easily create log statements ( print_r(), console.log(), print() ). This is a fork of Console Wrap PHP/JS/Python.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "Fuquamentals",
   "author": {
     "name": "Fuquamentals"

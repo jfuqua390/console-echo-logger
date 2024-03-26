@@ -16,7 +16,7 @@
 	};
 
 	function activate(context) {
-		let disposable = vscode.commands.registerCommand('console-wrap-php-js-python.log', () => {
+		let disposable = vscode.commands.registerCommand('console-echo-logger.log', () => {
 
 			const editor = vscode.window.activeTextEditor;
 

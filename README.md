@@ -20,7 +20,7 @@ Install through VS Code extensions.
 
 # How to use
 
-Press `Ctrl+Shift+Q` (Windows), or `Cmd+Shift+Q` (Mac)
+Press `Ctrl+Alt+L` (Windows), or `Ctrl+Cmd+L` (Mac)
 
 # License
 

@@ -55,7 +55,7 @@
 
 				if (editor.document.languageId === 'php') {
 					vscode.commands.executeCommand('editor.action.insertLineAfter').then(() => {
-						const logToInsert = `echo '<pre>'; print_r(${text}); echo '</pre>';`;
+						const logToInsert = `echo "Log:"; print_r(${text}); echo "\n";`;
 						insertText(editor, logToInsert);
 					});
 				}
